@@ -1,0 +1,26 @@
+{
+  "name": "namste_javascript",
+  "version": "1.0.0",
+  "description": "A namaste javascript course",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShawRohit/namasteDev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShawRohit/namasteDev/issues"
+  },
+  "homepage": "https://github.com/ShawRohit/namasteDev#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "browserslist":["last 2 versions"]
+}
