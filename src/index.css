@@ -47,6 +47,10 @@
 
 .filter-btn {
   cursor: pointer;
-  padding: 10px;
   margin: 5px;
+}
+
+.filter {
+  margin: 5px;
+  display: flex;
 }
